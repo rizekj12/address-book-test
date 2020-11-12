@@ -1,0 +1,30 @@
+td{
+    margin: auto 45px;
+    color: white;
+    border: transparent;
+}
+
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: none;
+  }
+
+.IndivItem{
+    width: 50%;
+    background-color:#14A5EB;
+    margin: auto;
+    border-radius: 2em;
+    border: transparent;
+    margin: 15px auto;
+}
+
+.ItemDiv{
+    display: flex;
+    flex-direction: row;
+}
+
+.deleteButton{
+display: inline-block;
+
+}

@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+.headerDiv{
+  background-color: skyblue;
+  width: 30%;
+  height: 100px;
+  margin: 50px auto;
+  border-radius: 2em;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+body{
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

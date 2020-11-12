@@ -1,0 +1,17 @@
+.formDiv{
+   display: flex;
+   justify-content: space-around;
+}
+
+.formInput{
+    margin: 15px;
+}
+
+button{
+    height: 40px;
+}
+
+.formButtonDiv{
+    display: flex;
+    align-self: center;
+}

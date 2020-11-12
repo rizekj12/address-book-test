@@ -1,0 +1,12 @@
+
+.table{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+th{
+    text-align: left;
+    margin: auto 65px;
+    border: transparent;
+}
